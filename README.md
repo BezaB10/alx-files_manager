@@ -31,8 +31,8 @@ Mocha is used in combination with Chai for testing the app.
 |----------------------------------------------------------------|
 |----------------------------------------------------------------|
 
-Author: Abinet Tesfu
-Email: abinatmail@gmail.com
+Author: Bezawit Berhanu
+Email: meandme.b2w@gmail.com
 
 |----------------------------------------------------------------|
 |----------------------------------------------------------------|
